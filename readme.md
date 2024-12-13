@@ -17,4 +17,6 @@ This application allows users to search for flights based on their location, des
 
 To run the application, navigate to the project directory and execute the following command:
 
-`go run main.go`
+```bash
+go run main.go
+```
