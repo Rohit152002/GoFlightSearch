@@ -52,3 +52,12 @@ Dependencies
 
 - Go 1.x (latest version recommended)
 - No external dependencies required
+
+## Output Screenshot
+
+Here’s a screenshot showing the output of the program:
+
+![Output Screenshot](photo/photo1.png)
+![Output Screenshot](photo/photo2.png)
+![Output Screenshot](photo/photo3.png)
+![Output Screenshot](photo/photo4.png)
