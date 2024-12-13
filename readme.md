@@ -20,3 +20,35 @@ To run the application, navigate to the project directory and execute the follow
 ```bash
 go run main.go
 ```
+
+# Launching the Application
+
+This will launch the application and present the user with a menu to choose from.
+
+## Menu Options
+
+The application has two main menus: one for users and one for admins.
+
+## User Menu
+
+- Search for flights
+- Exit
+
+## Admin Menu
+
+- Add a new flight
+- Delete a flight
+- Exit
+
+## Code Structure
+
+The application is divided into two packages: flight and main.
+
+The flight package contains the logic for the flight booking application, including the data structures for flights, search functionality, and admin functionality.
+The main package contains the entry point of the application and handles the menu system.
+Dependencies
+
+## This application uses the following dependencies:
+
+- Go 1.x (latest version recommended)
+- No external dependencies required
